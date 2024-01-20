@@ -1,0 +1,2 @@
+- 👋 Hi, I’m @kaiho2
+- 🌱 I’m currently learning Nodejs.
